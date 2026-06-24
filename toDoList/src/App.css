@@ -28,7 +28,3 @@ li::before {
     margin-right: .75rem;
     font-weight: bold;
 }
-
-li {
-    text-align: left;
-}
